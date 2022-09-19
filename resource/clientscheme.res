@@ -391,8 +391,8 @@
 		"HudIcon_Green"										"0 160 0 255"
 		"HudIcon_Red"										"160 0 0 255"
 
-		"ItemColor"											"255 167 42 200"
-		"MenuColor"											"233 208 173 255"
+		"ItemColor"											"225 220 220 200"
+		"MenuColor"											"225 220 220 255"
 		"MenuBoxBg"											"0 0 0 100"
 
 		"SelectionNumberFg"									"225 220 220 255"
